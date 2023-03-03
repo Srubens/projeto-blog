@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+}
+
+.author{
+    border-radius: 33rem;
+    width: 120px;
+    border: 1px solid #000;
+}
+
+p > img{
+    max-width: 100%;
+    width: 1980px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    width: 1980px;
+    height: auto;
+}
+
+p > video {
+    max-width: 100%;
+    width: 1980px;
+}
+
+video, embed, iframe {
+    max-width: 100%;
+    width: 1980px;
+    height: 560px;
+}
